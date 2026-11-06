@@ -1,0 +1,438 @@
+{
+  "name": "Sunny 优质主流全圆角图标库",
+  "description": "专为 Quantumult X 适配的主流国内外应用、AI 大模型与策略组圆角图标合集，免 301 重定向，极速加载。",
+  "icons": [
+    {
+      "name": "节点选择 (Proxy)",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png"
+    },
+    {
+      "name": "全局直连 (Direct)",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png"
+    },
+    {
+      "name": "广告拦截 (Reject)",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png"
+    },
+    {
+      "name": "漏网之鱼 (Final)",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png"
+    },
+    {
+      "name": "自动测速 (Auto)",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png"
+    },
+    {
+      "name": "香港节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png"
+    },
+    {
+      "name": "台湾节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png"
+    },
+    {
+      "name": "日本节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png"
+    },
+    {
+      "name": "新加坡节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png"
+    },
+    {
+      "name": "美国节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png"
+    },
+    {
+      "name": "韩国节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png"
+    },
+    {
+      "name": "英国节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png"
+    },
+    {
+      "name": "德国节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png"
+    },
+    {
+      "name": "加拿大节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png"
+    },
+    {
+      "name": "澳大利亚节点",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png"
+    },
+    {
+      "name": "ChatGPT (白底)",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/openai.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/claude.png"
+    },
+    {
+      "name": "Claude (白底)",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/claude.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/gemini-color.png"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/deepseek-color.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/copilot.png"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/metaai.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/perplexity.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/grok.png"
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/midjourney.png"
+    },
+    {
+      "name": "Kimi",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/kimi.png"
+    },
+    {
+      "name": "通义千问 (Qwen)",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/qwen.png"
+    },
+    {
+      "name": "Poe",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/poe.png"
+    },
+    {
+      "name": "HuggingFace",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/huggingface.png"
+    },
+    {
+      "name": "Muse",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/muse.png"
+    },
+    {
+      "name": "Muse (白底)",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/muse.png"
+    },
+    {
+      "name": "Muse (原色)",
+      "url": "https://images.weserv.nl/?url=https://muse.ai/images/landing/brand/muse-app-icon.svg&output=png&w=256&h=256"
+    },
+    {
+      "name": "微信",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QQ.png"
+    },
+    {
+      "name": "微博",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weibo.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xiaohongshu_01.png"
+    },
+    {
+      "name": "知乎",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Zhihu.png"
+    },
+    {
+      "name": "钉钉",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/dingtalk.png"
+    },
+    {
+      "name": "豆瓣",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DouBan.png"
+    },
+    {
+      "name": "百度贴吧",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tieba.png"
+    },
+    {
+      "name": "CSDN",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/csdn.png"
+    },
+    {
+      "name": "WPS Office",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WPS.png"
+    },
+    {
+      "name": "哔哩哔哩 (B站)",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Bilibili.png"
+    },
+    {
+      "name": "抖音",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_06.png"
+    },
+    {
+      "name": "快手",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuaiShou.png"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tencent_Video.png"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iQiYi_Video.png"
+    },
+    {
+      "name": "优酷",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouKu_Video.png"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Mango_TV.png"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NeteaseCloudMusic.png"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QQMusic.png"
+    },
+    {
+      "name": "汽水音乐",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SodaMusic.png"
+    },
+    {
+      "name": "波点音乐",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BodianMusic.png"
+    },
+    {
+      "name": "喜马拉雅",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Himalaya.png"
+    },
+    {
+      "name": "支付宝",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AliPay.png"
+    },
+    {
+      "name": "云闪付",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/UnionPay.png"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Taobao.png"
+    },
+    {
+      "name": "京东",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JD.png"
+    },
+    {
+      "name": "拼多多",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PinDuoDuo.png"
+    },
+    {
+      "name": "美团",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiTuanItakeaway.png"
+    },
+    {
+      "name": "饿了么",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/eleme.png"
+    },
+    {
+      "name": "滴滴出行",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DiDi.png"
+    },
+    {
+      "name": "高德地图",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Amap.png"
+    },
+    {
+      "name": "百度地图",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduMap.png"
+    },
+    {
+      "name": "铁路12306",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/12306.png"
+    },
+    {
+      "name": "携程旅行",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Ctrip.png"
+    },
+    {
+      "name": "去哪儿旅行",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/qunar.png"
+    },
+    {
+      "name": "夸克",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QuarkBrowser.png"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduNetDisk.png"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AliYunDrive.png"
+    },
+    {
+      "name": "123云盘",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/123NetWorkDisk.png"
+    },
+    {
+      "name": "迅雷",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XunLei.png"
+    },
+    {
+      "name": "有道词典",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YoudaoDict.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouTube.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouTubeMusic.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Netflix.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Disney+.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Spotify.png"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Music.png"
+    },
+    {
+      "name": "Apple TV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_TV.png"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HBO.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hulu.png"
+    },
+    {
+      "name": "Prime Video",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitch.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TikTok.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Telegram.png"
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/X.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Discord.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Reddit.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/GitHub.png"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/WhatsApp.png"
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png"
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Notion.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png"
+    },
+    {
+      "name": "Google Drive",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Drive.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png"
+    },
+    {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png"
+    },
+    {
+      "name": "TestFlight",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TestFlight.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/OneDrive.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png"
+    },
+    {
+      "name": "Nintendo",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Nintendo.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PayPal.png"
+    }
+  ]
+}
