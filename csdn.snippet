@@ -1,0 +1,10 @@
+# > CSDN App 去开屏广告及净化
+hostname = app-gw.csdn.net
+
+# 拦截开屏与信息流广告接口 (返回 200 空包避免卡死)
+^https?:\/\/app-gw\.csdn\.net\/silkroad-api\/api\/v\d\/assemble\/list\/pub\/channel\/app_open_screen_ad url reject-200
+^https?:\/\/app-gw\.csdn\.net\/silkroad-api\/api\/v\d\/assemble\/list\/pub\/channel\/app_ad_v1 url reject-200
+
+# 脚本修改配置：关闭开屏开关与开启免广告权限 (使用你的专属链接)
+^https?:\/\/app-gw\.csdn\.net\/community\/v1\/profile\/app\/get-ios-config url script-response-body https://raw.githubusercontent.com/Sunny-qwe/rule/main/csdn.js
+^https?:\/\/app-gw\.csdn\.net\/silkroad-api\/api\/v2\/assemble\/list\/pub\/channel\/app_no_ads_user url script-response-body https://raw.githubusercontent.com/Sunny-qwe/rule/main/csdn.js
