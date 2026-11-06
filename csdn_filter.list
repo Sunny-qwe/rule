@@ -1,0 +1,13 @@
+# > CSDN 开屏广告联盟及数据上报拦截
+HOST-SUFFIX, beizi.biz, REJECT
+HOST-SUFFIX, adfunlink.com, REJECT
+HOST-SUFFIX, adn-plus.com.cn, REJECT
+HOST-SUFFIX, yunxish.com, REJECT
+HOST-SUFFIX, medproad.com, REJECT
+HOST-SUFFIX, hubcloud.com.cn, REJECT
+HOST-SUFFIX, mergex.cn, REJECT
+HOST-SUFFIX, bxsnews.com, REJECT
+HOST-SUFFIX, ad-scope.com.cn, REJECT
+HOST-SUFFIX, iggrowth.cn, REJECT
+HOST-SUFFIX, cl2009.com, REJECT
+HOST, sentryapp.csdn.net, REJECT
